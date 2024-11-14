@@ -25,6 +25,7 @@ cout<<"Saturday";
 break;
 case 7: 
 cout<<"Sunday";
+break;
 default:
 cout<<"Invalid Input";
 
