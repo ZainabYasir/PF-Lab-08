@@ -20,6 +20,7 @@ case 7:
 case 8:
 case 9:
 cout<<"Summer";
+break;  
 case 10:
 case 11:
 cout<<"Fall";
