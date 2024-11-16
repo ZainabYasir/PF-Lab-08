@@ -5,6 +5,9 @@ int digit;
 cout<<"Enter a single-digit integer(0 to 9):";
 cin>>digit;
 switch(digit){
+case 0: 
+cout<<"Zero";
+break;  
 case 1:
 cout<<"One";
 break;
